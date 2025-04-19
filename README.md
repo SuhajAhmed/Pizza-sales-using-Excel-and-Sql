@@ -50,11 +50,4 @@ See: `SQL QUERIES.docx` for full queries.
 
 ---
 
-## 🔮 Future Enhancements
-- Automate the Excel dashboard with **Power Query**  
-- Create an interactive **Power BI version**  
-- Add time-series forecasting and insights
 
----
-
-> 💡 This project is a quick demo of real-world business data analysis using tools many professionals already have access to — Excel and SQL.
